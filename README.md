@@ -14,3 +14,4 @@
 ## [Visit the website to see my Art][page]
  [page]: https://xeexart.wordpress.com/
 
+![Screenshot](snippet.png)
